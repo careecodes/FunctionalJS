@@ -1,0 +1,1 @@
+// Practicing functional JS after John's workshop!
